@@ -41,15 +41,15 @@ function Contact() {
                         <form action="https://formspree.io/f/xdojynkq" method="POST" className="flex flex-col gap-4 w-full">
                             <div className="flex flex-col">
                                 {/* <label htmlFor="name" className="text-lg font-bold">Name</label> */}
-                                <input type="text" name="name" placeholder="Name" className="box p-2 border border-gray-300 rounded" required />
+                                <input type="text" name="name" placeholder="Name" className="box p-2 border border-gray-300 rounded dark:bg-[#041121] dark:text-white" required />
                             </div>
                             <div className="flex flex-col">
                                 {/* <label htmlFor="email" className="text-lg font-bold">Email</label> */}
-                                <input type="email" name="email" placeholder="Email" className="box p-2 border border-gray-300 rounded" required />
+                                <input type="email" name="email" placeholder="Email" className="box p-2 border border-gray-300 rounded dark:bg-[#041121] dark:text-white" required />
                             </div>
                             <div className="flex flex-col">
                                 {/* <label htmlFor="message" className="text-lg font-bold">Message</label> */}
-                                <textarea name="message" cols={30} rows={10} className="box p-2 border border-gray-300 rounded" placeholder="Message" required></textarea>
+                                <textarea name="message" cols={30} rows={10} className="box p-2 border border-gray-300 rounded dark:bg-[#041121] dark:text-white" placeholder="Message" required></textarea>
                             </div>
                             {/* <button type="submit" className="btn p-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition duration-200">
                                 Send <i className="fas fa-paper-plane"></i>
