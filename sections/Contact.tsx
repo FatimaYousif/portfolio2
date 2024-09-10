@@ -54,7 +54,7 @@ function Contact() {
                             {/* <button type="submit" className="btn p-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition duration-200">
                                 Send <i className="fas fa-paper-plane"></i>
                             </button> */}
-                            <Button type="submit" color="primary" text="Send" className="required" />
+                            <Button color="primary" text="Send" className="required" />
                       
                         </form>
                     </div>
