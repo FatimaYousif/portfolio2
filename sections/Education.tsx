@@ -15,6 +15,8 @@ function Educations() {
                 <Education post={"Erasmus Mundus Joint Master’s in Intelligent Field Robotic Systems"} dateStart={2023} company={"Universitat de Girona"}>
                     <p>Semester I & II in Girona: Autonomous Systems, Machine Learning, Multiview Geometry, Probabilistic Robotics (Kalman Filtering),
                     and Robot Manipulation, Localization (SLAM), Planning, Perception (Computer Vision), and Intervention.</p>
+                    <p>Semester III in Zagreb: Aerial Robotics, Multi-Robot Systems, Human-Robot Interaction, Robotic Sensing, Perception,
+                    & Actuation, Deep Learning, and Ethics & Technology.</p>
                 </Education>
                 
                 <Education post={"B.E. in Software Engineering"} dateStart={2018} dateEnd={2022} company={"Mehran University of Engineering and Technology"} >
